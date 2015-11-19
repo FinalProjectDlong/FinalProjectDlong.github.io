@@ -1,0 +1,43 @@
+body{
+	background-color: #666666;
+	color: #D4E7ED;
+	
+}
+
+.heading{
+	background-color: #336699;
+	border: solid;
+	padding: 1%;
+	margin: 1%;
+	border: inset;
+}
+
+ul.menu li{
+	display: inline;
+}
+
+.menu li{
+	padding: 0px 0px 0px 24px;
+}
+
+.menu li ul{
+	display: none;
+	position: absolute;
+}
+
+.menu li:hover ul{
+	display: block;
+}
+
+.main{
+	background-color: #999999;
+	margin: auto;
+    width: 60%;
+    border:3px solid #8AC007;
+    padding: 10px;
+	border: solid;
+	padding: 1%;
+	margin: 1%;
+	border: inset;
+}
+
