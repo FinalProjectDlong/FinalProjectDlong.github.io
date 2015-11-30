@@ -41,3 +41,16 @@ ul.menu li{
 	border: inset;
 }
 
+.description {
+	
+	background-color: #999999;
+}
+
+.body {
+	background-color: #383838;
+	font-family: "Lucida Console";
+	margin-left: auto;
+    margin-right: auto;
+    width: 6em
+	
+}
